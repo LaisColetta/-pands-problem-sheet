@@ -1,4 +1,4 @@
-# Program that generates a random number between 0 and 100 to guess
+#Program that generates a random number between 0 and 100 to guess
 #Author: Lais
 
 import random
