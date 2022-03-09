@@ -1,6 +1,6 @@
 #Program that that calculates somebody's Body Mass Index (BMI). 
 #Author: Lais
-#References: https://www.javatpoint.com/,https://www.w3resource.com/
+#References: https://www.javatpoint.com/,https://www.w3resource.com/ - From thoses sources I learned about basic calculations in python and how 
 
 #Input weight
 weight = float(input ('Enter your weight (kg): '))
