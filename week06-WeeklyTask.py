@@ -1,6 +1,6 @@
 #Program that takes a positive floating-point number as input and outputs an approximation of its square root.
 #Author: Lais
-#reference: Approximating Square Roots w/ Newton's Method - YouTube and https://codereview.stackexchange.com/questions/48725/approximating-the-square-root-using-an-iterative-method/48904#48904
+#Reference: Approximating Square Roots w/ Newton's Method - YouTube and https://codereview.stackexchange.com/questions/48725/approximating-the-square-root-using-an-iterative-method/48904#48904
 
 #set error variable (between iterations we get a difference that is a certain amount we will consider 'good enough')
 def sqrt(num, error=0.00001):
