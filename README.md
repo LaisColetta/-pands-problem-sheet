@@ -20,7 +20,7 @@ In this task we were asked to write a program that calculates somebody's Body Ma
 ### Week03-secondstring.py
 In week 03 we wrote a program that asks a user to input a string and outputs every second letter in reverse order. In this task we learned concepts of slicing and reversing an input. The references I used the most were https://realpython.com/reverse-string-python/, www.w3schools.com and https://stackoverflow.com/ discussion forum. In week 03 we also learned about variable types,lists introduction and random generator module, how to round a intenger, measure the lenght of a string and some formatting tips.
 
-### Week04-collatz.py
+### Week04 collatz.py
 Week 04 we learned about While and For loops and If, Elif and else statements. The complementary material I used were https://www.tutorialspoint.com/python/, https://www.programiz.com/python-programming/while-loop video tutorial, Python| While Loop and If-Else together - Youtube tutorial and the articles https://www.w3schools.com/python/python_while_loops.asp, https://realpython.com/lessons/while-loops/. In week 04 we were wrote a program that asks the user to input any positive integer and outputs the successive values of the following calculation.
 
 ### Week05-weekday.py
