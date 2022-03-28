@@ -1,15 +1,14 @@
-#Program that that calculates somebody's Body Mass Index (BMI). 
+#Program that that calculates somebody's Body Mass Index (BMI)
 #Author: Lais
-#References: https://www.javatpoint.com/,https://www.w3resource.com/ - From thoses sources I learned about basic calculations in python and how 
 
-#Input weight
-weight = float(input ('Enter your weight (kg): '))
-#Input height
+#input weight - create the variable 'weight'
+weight = float(input('Enter your weight (kg): '))
+#input height - create the variable height
 height = float(input('Enter you height (cm): '))
-#calculation of BMI according to https://www.dummies.com/
-result = round(weight/(height*height),4)
+#use the variables to calculate the BMI. The calculation was based on the article https://www.dummies.com/ that teaches how to calculate an individuals BMI.
+result = round(weight/(height*height),2)
 
-#print result:
+#print result. Use .format to format the value in the string and avoid syntax error.
 print ('The BMI is (kg/m2) = {}' .format(result))
 
 

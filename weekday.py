@@ -1,11 +1,10 @@
-#Program that checks if today is a weekday/weekend day
-#Author: Lais
-#Reference: https://www.tutorialsrack.com/articles/324 / YouTube video: Datetime Module (Dates and Times) || Python Tutorial || Learn Python Programming
+#Program that checks if today is a weekday/weekend day and returns a message to the user.
+#Author: Lais 
   
-# Import Module
+#import the module datetime to work with dates as date objects
 import datetime
 
-# weekday() function to get the week number from the date
+#create weekNumber variable. datetime.today() method returns the current date, and the weekday() returns the day of the week as an integer. Monday is indexed as 0 and Sunday as 6.
 weekNumber = datetime.datetime.today().weekday()
 
 #check if the week number is greater than 5 then its a weekend otherwise it is a weekday.

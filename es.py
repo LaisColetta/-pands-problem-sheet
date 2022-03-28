@@ -1,8 +1,7 @@
 #Program to count letter 'e' in a text file
 #Author: Lais
-#Reference: www.geeksforgeeks.org,https://docs.python.org/3/library/functions.html#open, https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-7.php
 
-# We start by creating a function that reads the file:
+# We start by creating a function called letterFrequency that reads the file and inputs the filename in the commandline as an argument:
 def letterFrequency(fileName, letter):
     # open file in read mode
     file = open(fileName, "r")
@@ -18,5 +17,5 @@ def letterFrequency(fileName, letter):
     # return letter count
     return count
 
-# call function and display the letter count
-print(letterFrequency('week06-WeeklyTask.py', 'e'))
+# call function and display the letter count and add file source. in this case I chose the file 'bmi.py' to search for the letter 'e'.
+print(letterFrequency('bmi.py', 'e'))

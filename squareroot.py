@@ -1,20 +1,21 @@
 #Program that takes a positive floating-point number as input and outputs an approximation of its square root.
 #Author: Lais
-#Reference: Approximating Square Roots w/ Newton's Method - YouTube and https://codereview.stackexchange.com/questions/48725/approximating-the-square-root-using-an-iterative-method/48904#48904
 
-#set error variable (between iterations we get a difference that is a certain amount we will consider 'good enough')
+#create a function that returns an aprox square root. We will run Newton's method many times until we get a close enough result.
+#set the error parameter that we would like to work on as a default and that will be considered 'acceptable'(0.00001)
 def sqrt(num, error=0.00001):
-    #first guess = num
+    # variable for the first guess = num
     guess = num
+    #calculate a difference that is going to be used to measure against the error rate paramater set previously.
     diff = 999999
+    #while loop to keep repeting formula and improving our guess until it meets the level of error level we set.
     while diff>error:
-        #newton's method formula
+        #newton's method formula:
         newGuess = guess - ((guess**2 - num)/ (2* guess))
-        diff = newGuess - guess
-        #we don't know which are bigger so take absolute of the difference
-        if diff < 0: 
-            diff *= -1
-    #this code will keep running and each time it get a guess we will check and how much the new guess is different from the result. If the different is still to big (bigger than 'error') the loop will continue, otherwise it ends.
+        #calculate the error. use ABS funtion to take the absolute value in case it is a negative value. 
+        diff = abs(newGuess - guess)
+        
+    #If the different is still too big (bigger than 'error') the loop will continue, otherwise it ends.
         guess = newGuess
     return guess
 
