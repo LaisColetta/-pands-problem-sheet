@@ -5,14 +5,14 @@
 In this file you will find a brief summary and references for the weekly tasks from the weeks 02 to 08 for the Programming and Scripting course lectured by Andrew Beatty.
 
 ## Table of contents
-* [Week02](##Week02-bmi.py)
+* [Week02](#Week02-bmi.py)
 * [Week03](#Week03-secondString.py)
 * [Week04](#Week04-collatz.py)
 * [Week05](#Week05-weekday.py)
 * [Week06](#Week06-squareRoot.py)
 * [Week07](#Week07-es.py)
-* [Week08](###week08-plotTask)
-* Github Issue (###Github Issue)
+* [Week08](#week08-plotTask)
+* [Github Issue](#Github Issue)
 
 
 ### Week02-bmi.py
@@ -36,5 +36,7 @@ How to open, write and read a file using function was the main subject of the we
 ### Week08-plotTask.py
 On week 08 we had an introduction of numpy and lerned about matplotlib which is a plotting library to create different types of data visualization in Python. The references used were References: https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/, https://matplotlib.org/stable/tutorials/introductory/customizing.html and the YouTube video 'Watch this if you want to LEARN MATPLOTLIB for PYTHON!'
 
-## Github Issue
- 
+### Github Issue
+In the beginning of the course, I had difficulties in adding the projects to Github and, while I thought I was using the correct repository, I actually was adding my projects into a different one. For that reason, the dates that I pushed my project to the repository -pands-problem-sheet- is newer than the date that I have started my projects. I have also sent you an email explaining that I could only start the course on the second week of february. 
+
+
