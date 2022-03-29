@@ -1,10 +1,8 @@
 # Program that writes a program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 #Author: Lais
-#References: https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/, https://matplotlib.org/stable/tutorials/introductory/customizing.html
 
 import matplotlib.pyplot as plt
 import numpy as np
-import tkinter
 
 #Plot of the function f(x)=x
 x1 = np.array(range(0,4))
