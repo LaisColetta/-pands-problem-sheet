@@ -38,7 +38,7 @@ Week 04 we learned about While and For loops and If, Elif and else statements. T
   
  In week 04 we wrote a program that asks the user to input any positive integer and outputs the successive values of the following calculation.
 
-### Week05-weekday.py
+### Week05 weekday.py
 The topics discussed in week 05 were lists, tuple, dictionaries, more of For and While loops and an overview of Jupyter notebooks. The weekly task was to write a program that checks if today is a weekday/weekend day and returns a message to the user. In this task we had to import the datetime module and my main sources were:
   * https://www.tutorialsrack.com/articles/324; 
   * YouTube video: Datetime Module (Dates and Times) || Python Tutorial || Learn Python Programming;
@@ -63,7 +63,7 @@ On week 08 we had an introduction of numpy and learned about matplotlib, which i
   * https://matplotlib.org/stable/tutorials/introductory/customizing.html;
   * YouTube video 'Watch this if you want to LEARN MATPLOTLIB for PYTHON!'.
 
-### Github-Issue / Delayed classes
+### Github-Issue
 In the beginning of the course, I had difficulties in adding the projects to Github and, while I thought I was using the correct repository, I was actually adding my projects into a different one. For that reason, the dates that I pushed my first projects to the repository -pands-problem-sheet- were newer than the dates that I actually started my projects. I have sent Andrew an email explaining the trouble I was facing on the 27/02/2022 and also another email on the 02/02/2022 saying that I could only start the course on the second week of february. I hope you can take this into consideration for the consistency grades for this project.
 
 
