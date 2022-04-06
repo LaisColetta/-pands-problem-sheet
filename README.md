@@ -11,7 +11,7 @@ In this file you will find a brief summary and references I have used to complet
 * [Week05-weekday.py](#Week05-weekday.py)
 * [Week06-squareRoot.py](#Week06-squareRoot.py)
 * [Week07-es.py](#Week07-es.py)
-* [Week08-plotTask.py](#Week08-plotTask.py)
+* [Week08-plotTask.py](#Week08-plotTask)
 * [Github-Issue](#Github-Issue)
 
 
@@ -57,7 +57,7 @@ How to open, write and read a file using function was the main subject of the we
   * https://docs.python.org/3/library/functions.html#open; 
   * https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-7.php.
 
-### Week08-plotTask.py
+### Week08-plotTask
 On week 08 we had an introduction of numpy and learned about matplotlib, which is a plotting library to create different types of data visualization in Python. The references used were References: 
   * https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/; 
   * https://matplotlib.org/stable/tutorials/introductory/customizing.html;
