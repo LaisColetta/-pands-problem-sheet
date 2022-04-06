@@ -12,7 +12,7 @@ In this file you will find a brief summary and references for the weekly tasks f
 * [Week06](###Week06-squareRoot.py)
 * [Week07](###Week07-es.py)
 * [Week08](###Week08-plotTask)
-* [Github Issue](#Github Issue)
+* [Github-Issue](#Github-Issue)
 
 
 ### Week02 bmi.py
