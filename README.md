@@ -33,7 +33,7 @@ We learned about functions in week 06, which fits into the strutured programming
 ### Week07 es.py
 How to open, write and read a file using function was the main subject of the week 07. We then wrote a program that reads in a text file and outputs the number of e's the file contains. The references used to this task were the websites www.geeksforgeeks.org, https://docs.python.org/3/library/functions.html#open, https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-7.php.
 
-### Week08 plotTask.py
+### Week08-plotTask.py
 On week 08 we had an introduction of numpy and lerned about matplotlib which is a plotting library to create different types of data visualization in Python. The references used were References: https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/, https://matplotlib.org/stable/tutorials/introductory/customizing.html and the YouTube video 'Watch this if you want to LEARN MATPLOTLIB for PYTHON!'
 
 ### Github-Issue
