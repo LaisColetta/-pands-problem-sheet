@@ -2,16 +2,16 @@
 ## Author: Lais Coletta Pereira
 
 ## Introduction:
-In this file you will find a brief summary and references for the weekly tasks from the weeks 02 to 08 for the Programming and Scripting course lectured by Andrew Beatty.
+In this file you will find a brief summary and references I have used to complete the weekly tasks from the weeks 02 to 08 for the Programming and Scripting course lectured by Andrew Beatty.
 
 ## Table of contents
-* [Week02](###Week02-bmi.py)
-* [Week03](###Week03-secondString.py)
+* [Week02-bmi.py](###Week02-bmi.py)
+* [Week03-secondString.py](###Week03-secondString.py)
 * [Week04](###Week04-collatz.py)
 * [Week05](###Week05-weekday.py)
 * [Week06](###Week06-squareRoot.py)
-* [Week07](###Week07-es.py)
-* [Week08](###Week08-plotTask)
+* [Week07-es.py](###Week07-es.py)
+* [Week08-plotTask](###Week08-plotTask)
 * [Github-Issue](#Github-Issue)
 
 
