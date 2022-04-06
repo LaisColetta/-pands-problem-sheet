@@ -5,23 +5,23 @@
 In this file you will find a brief summary and references for the weekly tasks from the weeks 02 to 08 for the Programming and Scripting course lectured by Andrew Beatty.
 
 ## Table of contents
-* [Week02](#Week02-bmi.py)
-* [Week03](#Week03-secondString.py)
-* [Week04](#Week04-collatz.py)
-* [Week05](#Week05-weekday.py)
-* [Week06](#Week06-squareRoot.py)
-* [Week07](#Week07-es.py)
-* [Week08](#week08-plotTask)
+* [Week02](###Week02-bmi.py)
+* [Week03](###Week03-secondString.py)
+* [Week04](###Week04-collatz.py)
+* [Week05](###Week05-weekday.py)
+* [Week06](###Week06-squareRoot.py)
+* [Week07](###Week07-es.py)
+* [Week08](###Week08-plotTask)
 * [Github Issue](#Github Issue)
 
 
-### Week02-bmi.py
+### Week02 bmi.py
 In this task we were asked to write a program that calculates somebody's Body Mass Index (BMI). The references I used were javatpoint.com and w3resource website, where I could learn an introductions of variables and how to make calculations using python. As I have no background related to IT, in this first week I watched many tutorials on YouTube to learn the concepts mentioned in the lecture. Some of the tutorials were from Realpython.com and this python course for beginners: https://www.youtube.com/watch?v=XKHEtdqhLK8&t=1833s&ab_channel=BroCode
 
-### Week03-secondString.py
+### Week03 secondString.py
 On week 03 we wrote a program that asks a user to input a string and outputs every second letter in reverse order. In this task we learned concepts of slicing and reversing an input. The references I used were https://realpython.com/reverse-string-python/, www.w3schools.com, https://codippa.com/how-to-print-characters-at-even-position-in-string-in-python/ and https://stackoverflow.com/ discussion forum. In week 03 we also learned about variable types,lists introduction and random generator module, how to round an intenger, measure the lenght of a string and some formatting tips.
 
-### Week04-collatz.py
+### Week04 collatz.py
 Week 04 we learned about While and For loops and If, Elif and else statements. The complementary material I used were https://www.tutorialspoint.com/python/, https://www.programiz.com/python-programming/while-loop video tutorial, Python| While Loop and If-Else together - Youtube tutorial and the articles https://www.w3schools.com/python/python_while_loops.asp, https://realpython.com/lessons/while-loops/. In week 04 we wrote a program that asks the user to input any positive integer and outputs the successive values of the following calculation.
 
 ### Week05-weekday.py
