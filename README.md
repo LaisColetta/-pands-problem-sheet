@@ -5,14 +5,14 @@
 In this file you will find a brief summary and references I have used to complete the weekly tasks from the weeks 02 to 08 for the Programming and Scripting course lectured by Andrew Beatty.
 
 ## Table of contents
-* [Week02-bmi](#Week02-bmi)
-* [Week03-secondString](#Week03-secondString)
-* [Week04-collatz](#Week04-collatz)
-* [Week05-weekday](#Week05-weekday)
-* [Week06-squareRoot](#Week06-squareRoot)
-* [Week07-es](#Week07-es)
-* [Week08-plotTask](#Week08-plotTask)
-* [Github-Issue](#Github-Issue)
+* [Week02 bmi](#Week02-bmi)
+* [Week03 secondString](#Week03-secondString)
+* [Week04 collatz](#Week04-collatz)
+* [Week05 weekday](#Week05-weekday)
+* [Week06 squareRoot](#Week06-squareRoot)
+* [Week07 es](#Week07-es)
+* [Week08 plotTask](#Week08-plotTask)
+* [Github Issue](#Github-Issue)
 
 
 ### Week02 bmi
@@ -47,7 +47,7 @@ The topics discussed in week 05 were lists, tuple, dictionaries, more of For and
 ### Week06 squareRoot
 We learned about functions in week 06, which fits into the strutured programming such as while loops. Global variables and why we should avoid them was also a subject in the course that week. We wrote a program as our weekly tasks that takes a positive floating-point number as input and outputs an approximation of its square root. We used the Newton's method to estimating square roots results. My references were:
   * https://web.archive.org/web/20100330183043/http://nlindblad.org/2007/04/04/write-your-own-square-root-function article
-  * the video 'Approximating Square Roots w/ Newton's Method' - YouTub;
+  * the video 'Approximating Square Roots w/ Newton's Method' - YouTube;
   * https://codereview.stackexchange.com/questions/48725/approximating-the-square-root-using-an-iterative-method/48904#48904;
   * https://stackoverflow.com/questions/1623375/writing-your-own-square-root-function forum discussion. 
 
