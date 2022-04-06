@@ -5,17 +5,17 @@
 In this file you will find a brief summary and references I have used to complete the weekly tasks from the weeks 02 to 08 for the Programming and Scripting course lectured by Andrew Beatty.
 
 ## Table of contents
-* [Week02-bmi.py](###Week02-bmi.py)
-* [Week03-secondString.py](###Week03-secondString.py)
-* [Week04](###Week04-collatz.py)
-* [Week05](###Week05-weekday.py)
-* [Week06](###Week06-squareRoot.py)
-* [Week07-es.py](###Week07-es.py)
-* [Week08-plotTask](###Week08-plotTask)
+* [Week02-bmi.py](#Week02-bmi.py)
+* [Week03-secondString.py](#Week03-secondString.py)
+* [Week04-collatz.py](#Week04-collatz.py)
+* [Week05-weekday.py](#Week05-weekday.py)
+* [Week06-squareRoot.py](#Week06-squareRoot.py)
+* [Week07-es.py](#Week07-es.py)
+* [Week08-plotTask](#Week08-plotTask)
 * [Github-Issue](#Github-Issue)
 
 
-### Week02 bmi.py
+### Week02-bmi.py
 In this first task we were asked to write a program that calculates somebody's Body Mass Index (BMI). The references I used were: 
   * javatpoint.com; 
   * w3resource - in this website I learned an introductions of variables and how to make calculations using python. As I have no background related to IT, in this first week; 
