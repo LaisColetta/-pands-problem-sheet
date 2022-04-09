@@ -64,7 +64,7 @@ On week 08 we had an introduction of numpy and learned about matplotlib, which i
   * YouTube video 'Watch this if you want to LEARN MATPLOTLIB for PYTHON!'.
 
 ### Github Issue
-In the first lectures, I had difficulties in adding the projects into Github and, while I thought I was using the correct repository, I was actually adding my projects into a different one. For that reason, the dates that I pushed my first projects to the repository -pands-problem-sheet- were newer than the dates that I actually started my projects. I have sent Andrew an email explaining the trouble I was facing on the 27/02/2022 and also another email on the 02/02/2022 saying that I could only start the course on the second week of february. I hope you can take this into consideration for the consistency grades for this project.
+In the first lectures I had difficulties in adding the projects into Github and, while I thought I was using the correct repository, I was actually adding my projects into a different one. For that reason, the dates that I pushed my first projects to the repository -pands-problem-sheet- are newer than the dates that I started my projects. I have sent Andrew an email explaining the trouble I was facing on the 27/02/2022 and also another email on the 02/02/2022 saying that I could only start the course in february only. I hope you can take this into consideration for the consistency grades for this project.
 
 <img width="1241" alt="Screenshot" src="https://user-images.githubusercontent.com/99751201/162047373-f29884b3-5359-45fa-93f1-b103d5abee64.png">
 
